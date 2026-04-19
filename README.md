@@ -1,5 +1,6 @@
 # -
 仿真Linux系统
+
 【文件夹说明】
 - jre：包含Java运行环境及必要库文件（请不要删除或移动）
 - input：存放测试数据（作业请求文件 jobs-input.txt 及各作业指令文件 *.txt）
@@ -7,9 +8,8 @@
 - RunProcess.exe：主程序可执行文件，双击即可运行
 
 【安装步骤】
-1. 将整个程序压缩包进行解压到本地硬盘。
-2. 一定要确保 jre、input、output 三个子文件夹与 RunProcess.exe 在同一级目录下。
-3. 若需使用自己的测试数据，请替换 input文件夹中的内容，但需保持文件格式正确。
+1. 一定要确保 jre、input、output 三个子文件夹与 RunProcess.exe 在同一级目录下。jre自行解压为文件夹
+2. 若需使用自己的测试数据，请替换 input文件夹中的内容，但需保持文件格式正确。
 
 【使用方法】
 1. 双击 RunProcess.exe 启动程序。
